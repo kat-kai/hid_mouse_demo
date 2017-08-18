@@ -40,7 +40,7 @@
 // *****************************************************************************
 /* EXAMPLE_START(hid_device_demo): HID Device (Server) Demo
  *
- * Status: Modified implementation, based on "hid_keyboard_demo" of BTstack, by kat-kai.
+ * Status: Basic implementation based on "hid_keyboard_demo" of BTstack, by kat-kai.
  * HID Request from Host are not answered yet too.
  *
  * @text This HID Device example demonstrates how to implement a HID mouse.
