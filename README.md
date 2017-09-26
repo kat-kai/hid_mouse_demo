@@ -2,7 +2,7 @@
 
 - BTstack implementation for Bluetooth HID Mouse
 
-*Note: Currently, you can use an official BTstack example code: [hid_mouse_demo.c]*(https://github.com/bluekitchen/btstack/blob/develop/example/hid_mouse_demo.c)
+*Note: Currently, you can use an official BTstack example code:* [hid_mouse_demo.c](https://github.com/bluekitchen/btstack/blob/develop/example/hid_mouse_demo.c)
 
 ### Requirements
 
